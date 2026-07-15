@@ -7,6 +7,12 @@
 <p>
 Desarrollador Full Stack especializado en <strong>Laravel 12</strong> y <strong>PHP 8.2</strong>, con experiencia en modernizacion de plataformas legacy, CMS a medida, integracion de APIs REST y sistemas empresariales con roles, permisos y logica de negocio compleja.
 </p>
+<div align="center">
+    <a href="https://git.io/streak-stats">
+        <img src="https://streak-stats.demolab.com/?user=rogerio14698&theme=highcontrast&hide_border=true&border_radius=5&locale=es&short_numbers=true&date_format=j%20M%5B%20Y%5D&exclude_days=Thu%2CFri%2CSat" alt="GitHub Streak" />
+    </a>
+</div>
+
 
 <p>
     <a href="https://rogerlab.es/projects">
@@ -203,14 +209,6 @@ Si buscas a alguien que pueda entrar en un proyecto Laravel, entender negocio re
     </a>
 </p>
 
-## Actividad
-
-
-<div align="center">
-    <a href="https://git.io/streak-stats">
-        <img src="https://streak-stats.demolab.com/?user=rogerio14698&theme=highcontrast&hide_border=true&border_radius=5&locale=es&short_numbers=true&date_format=j%20M%5B%20Y%5D&exclude_days=Thu%2CFri%2CSat" alt="GitHub Streak" />
-    </a>
-</div>
 
 
 
