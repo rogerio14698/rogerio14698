@@ -13,7 +13,6 @@ Desarrollador Full Stack especializado en <strong>Laravel 12</strong> y <strong>
     </a>
 </div>
 
-
 <p>
     <a href="https://rogerlab.es/projects">
         <img src="https://img.shields.io/badge/Portfolio-FF6B00?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
@@ -38,7 +37,20 @@ Desarrollador Full Stack especializado en <strong>Laravel 12</strong> y <strong>
 
 ---
 
+<div align="center">
+    <a href="#perfil">Perfil</a> ·
+    <a href="#stack-principal">Stack</a> ·
+    <a href="#proyectos-destacados">Proyectos</a> ·
+    <a href="#biblioteca-daw">Biblioteca DAW</a> ·
+    <a href="#api-pokemon-pokedex-shiny">Pokedex</a> ·
+    <a href="#aion">AION</a> ·
+    <a href="#cms-corporativo-bilingue">CMS</a> ·
+    <a href="#contacto">Contacto</a>
+</div>
+
 ## Perfil
+
+<div id="perfil"></div>
 
 Construyo aplicaciones funcionales de extremo a extremo con foco en tres puntos: arquitectura ordenada, mantenimiento sencillo y entrega de valor real al negocio.
 
@@ -51,6 +63,8 @@ Construyo aplicaciones funcionales de extremo a extremo con foco en tres puntos:
 - Despliegues basicos con Git, Composer, AWS EC2, XAMPP y Docker
 
 ## Stack principal
+
+<div id="stack-principal"></div>
 
 <p>
     <img src="https://img.shields.io/badge/PHP%208.2-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP 8.2" />
@@ -95,7 +109,11 @@ Construyo aplicaciones funcionales de extremo a extremo con foco en tres puntos:
 
 ## Proyectos destacados
 
+<div id="proyectos-destacados"></div>
+
 ### Biblioteca DAW
+
+<div id="biblioteca-daw"></div>
 
 <strong>Aplicacion Full Stack de gestion en Laravel + MySQL</strong><br>
 Demo: <a href="https://biblioteca.rogerlab.es/biblioteca">biblioteca.rogerlab.es/biblioteca</a>
@@ -118,6 +136,8 @@ Sistema de gestion bibliotecaria con catalogo, prestamos, eventos culturales, no
 
 ### API Pokemon Pokedex Shiny
 
+<div id="api-pokemon-pokedex-shiny"></div>
+
 <strong>Integracion de API REST con Laravel</strong><br>
 Demo: <a href="https://apipokemon.rogerlab.es/pokemon/raichu">apipokemon.rogerlab.es/pokemon/raichu</a>
 
@@ -139,6 +159,8 @@ Pokédex construida en Laravel que consume PokeAPI para mostrar fichas completas
 
 ### AION
 
+<div id="aion"></div>
+
 <strong>Modernizacion de plataforma empresarial en Laravel 12</strong><br>
 Proyecto privado y confidencial.
 
@@ -159,6 +181,8 @@ Base tecnica estable, lista para nuevas features, endurecimiento de seguridad y 
 ---
 
 ### CMS Corporativo Bilingue
+
+<div id="cms-corporativo-bilingue"></div>
 
 <strong>CMS administrable en Laravel orientado a negocio</strong><br>
 Proyecto privado y reutilizable como producto propio.
@@ -193,6 +217,8 @@ Si buscas a alguien que pueda entrar en un proyecto Laravel, entender negocio re
 - Aplicaciones con base de datos relacional bien estructurada
 
 ## Contacto
+
+<div id="contacto"></div>
 
 <p>
     <a href="https://www.linkedin.com/in/rogerio-lucas-viana-51a149258/">
