@@ -207,11 +207,17 @@ Si buscas a alguien que pueda entrar en un proyecto Laravel, entender negocio re
 
 <div align="center">
     <img height="170" src="https://github-readme-stats.vercel.app/api?username=rogerio14698&show_icons=true&theme=ambient_gradient&hide_border=true&title_color=ff6b00&icon_color=ff2d55&text_color=f5f5f5&bg_color=0d1117" alt="GitHub stats" />
-    <img height="170" src="https://streak-stats.demolab.com?user=rogerio14698&theme=highcontrast&hide_border=true&ring=ff6b00&fire=ff2d55&currStreakLabel=ffb000" alt="GitHub streak" />
+    <a href="https://git.io/streak-stats">
+        <img height="170" src="./profile/streak.svg" alt="GitHub streak" />
+    </a>
 </div>
 
 <div align="center">
     <sub>Laravel, PHP y sistemas reales orientados a negocio.</sub>
+</div>
+
+<div align="center">
+    <sub>La tarjeta de racha se genera automaticamente con GitHub Actions para mayor estabilidad.</sub>
 </div>
 
 
